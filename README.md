@@ -121,7 +121,5 @@ Ce projet met en œuvre une architecture de microservices avec Spring Boot. Il c
 
 Les contributions sont les bienvenues ! Pour toute modification, veuillez ouvrir une pull request.
 
-## License
 
-Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus d'informations.
 
